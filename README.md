@@ -1,2 +1,2 @@
 # FaceRecognition
-Face Recognition React App (Frontend + Backend)
+Face Recognition React App (Frontend)
